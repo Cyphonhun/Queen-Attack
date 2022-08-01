@@ -1,0 +1,5 @@
+Először is a királynő merre léphet innen indultam el az irányokat tömbben deklaráltam.
+Majd a királynő addig mehet amíg bele nem ütközik valamibe.
+Párokba kérem le az akadályok helyét és mentem el az ideiglenes változóba.
+Majd a lower bound algoritmussal összehasonlítom az akadályok helyét a királynő pozíciójával és addig fut ameddig nem ütközik.
+Majd a végén visszaálítom a kezdő pozícióba és újra fut de már csak addig ameddig az előbb megállt.
